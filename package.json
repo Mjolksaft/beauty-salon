@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "install-All": "concurrently \"npm i\" \"cd backend && npm i\"",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@react-google-maps/api": "^2.18.1",
