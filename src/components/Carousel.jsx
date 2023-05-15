@@ -21,7 +21,7 @@ function CarouselComp() {
             <h2>Summer Special Offer!</h2>
             <h3>10% off on all facials</h3>
             <p>Please note that the discount will be applied at our salon.</p>
-        </div>
+        </div> 
       </Carousel.Item>
       <Carousel.Item>
         <div className="carousel-image pic3">
